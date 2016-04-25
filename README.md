@@ -1,8 +1,8 @@
+Note: You are currently on a branch that contains no code. This is a single-purpose branch whose contents may change at any time. Its sole purpose is to provide screenshots for the [Github project](https://github.com/h3xx/tig-colors-neonwolf).
+
 # Neonwolf Colorscheme for Tig
 
 This is a high-contrast, dark colorscheme for [tig](https://github.com/jonas/tig) that was inspired by the badwolf series of color schemes.
-
-![sample](https://raw.githubusercontent.com/h3xx/tig-colors-neonwolf/master/screenshots/sample.png)
 
 ## Contributing
 
